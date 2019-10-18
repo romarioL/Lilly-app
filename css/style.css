@@ -1,0 +1,24 @@
+#sections {
+	color: white;
+	font-family: 'Mansalva', cursive;
+
+}
+
+.section {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+
+}
+.section-title {
+  font-size: 48px;
+}
+
+.section-text {
+	font-size: 40px;
+}
+
+#mapid { height: 180px; }
+
+
